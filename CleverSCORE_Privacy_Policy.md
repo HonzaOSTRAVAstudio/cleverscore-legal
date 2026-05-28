@@ -1,3 +1,43 @@
+*🇨🇿 [Česká verze níže / Czech version below]*
+*🇬🇧 [English version]*
+
+**Privacy Policy**
+
+**Last Updated:** [INSERT DATE, e.g., May 2026]
+
+This Privacy Policy explains how the CleverSCORE Table TENNIS application (hereinafter referred to as the "App") collects, uses, and protects your information.
+
+**1. Data Collection and Storage**
+CleverSCORE is designed with the utmost emphasis on your privacy. All data is stored locally (offline) on your device. The App does not use any cloud servers to store your personal data and does not require the creation of an online user account.
+
+The data you create within the App (player names, profile pictures, bank details for the debt book, match history) do not leave your device unless you choose to export or share them yourself.
+
+**2. Access Permissions and Their Usage**
+For full functionality, the App requires certain permissions, which are used exclusively to run local features:
+
+*   **Camera:** Used exclusively for recording video footage of your matches with TV graphics overlay and for taking player profile pictures.
+*   **Microphone:** Used for recording audio into the video and for the Voice Umpire feature. Please note: The voice recognition system (Vosk) runs 100% offline directly on your device. Your voice commands are not sent to any servers for analysis.
+*   **Bluetooth / Location (on older OS versions):** Used for detecting and pairing external Bluetooth buttons (clickers) and communicating with smartwatches (Wear OS).
+*   **Storage:** Used for saving generated videos, database backups, and exporting debt history (in TXT format).
+
+**3. Data Sharing**
+The App does not share, sell, or rent any of your data to third parties. Any sharing of videos, screenshots, or debt exports is fully under your control and is initiated exclusively by manually clicking the "Share" button to third-party apps (e.g., email, WhatsApp).
+
+When generating a Bug Report, the App compiles a text file containing technical data about the device and the error. This file is sent only if you manually confirm and send it via your email client.
+
+**4. Debt and Finance System**
+The App contains a "Debt Book" module and allows saving players' IBAN / bank codes. This module serves exclusively as a local text notebook. The App does not have access to your bank account and does not process any real financial transactions.
+
+**5. Policy Changes**
+We reserve the right to modify this Privacy Policy. All changes will be posted on this page with an updated date.
+
+**6. Contact**
+If you have any questions regarding this policy, please contact us at:
+**support.HonzaOSTRAVAstudio@gmail.com**
+
+
+**Zásady ochrany osobních údajů**
+
 # Zásady ochrany osobních údajů (Privacy Policy)
 
 **Poslední aktualizace:** [DOPLNIT DATUM, např. Květen 2026]
