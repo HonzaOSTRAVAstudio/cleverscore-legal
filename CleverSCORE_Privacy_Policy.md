@@ -1,8 +1,6 @@
 *🇨🇿 [Česká verze níže / Czech version below]*
 *🇬🇧 [English version]*
 
-**Privacy Policy**
-
 # Privacy Policy
 
 **Last Updated:** [28.5.2026]
@@ -38,8 +36,6 @@ If you have any questions regarding this policy, please contact us at:
 **[support.HonzaOSTRAVAstudio@gmail.com](mailto:support.HonzaOSTRAVAstudio@gmail.com)m**
 
 
-
-**Zásady ochrany osobních údajů**
 
 # Zásady ochrany osobních údajů (Privacy Policy)
 
