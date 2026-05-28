@@ -1,8 +1,6 @@
 *🇨🇿 [Česká verze níže / Czech version below]*
 *🇬🇧 [English version]*
 
-**Terms of Service**
-
 # **Terms of Service**
 
 **Last Updated:** [28.5.2026]
@@ -36,8 +34,6 @@ In case of any questions or bug reports, you can contact us via the "Support" se
 **[support.HonzaOSTRAVAstudio@gmail.com](mailto:support.HonzaOSTRAVAstudio@gmail.com)**
 
 
-
-**Podmínky používání**
 
 # Podmínky používání (Terms of Service)
 
