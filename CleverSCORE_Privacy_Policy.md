@@ -30,4 +30,4 @@ Vyhrazujeme si právo tyto Zásady ochrany osobních údajů upravovat. Všechny
 
 ## 6. Kontakt
 Pokud máte jakékoli dotazy týkající se těchto zásad, kontaktujte nás prosím na adrese:
-**[DOPLNIT VÁŠ E-MAIL / KONTAKTNÍ ÚDAJE]**
+**[support.HonzaOSTRAVAstudio@gmail.com]**
