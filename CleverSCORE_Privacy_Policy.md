@@ -3,7 +3,7 @@
 
 **Privacy Policy**
 
-**Last Updated:** [INSERT DATE, e.g., May 2026]
+**Last Updated:** [28.5.2026]
 
 This Privacy Policy explains how the CleverSCORE Table TENNIS application (hereinafter referred to as the "App") collects, uses, and protects your information.
 
@@ -36,11 +36,12 @@ If you have any questions regarding this policy, please contact us at:
 **support.HonzaOSTRAVAstudio@gmail.com**
 
 
+
 **Zásady ochrany osobních údajů**
 
 # Zásady ochrany osobních údajů (Privacy Policy)
 
-**Poslední aktualizace:** [DOPLNIT DATUM, např. Květen 2026]
+**Poslední aktualizace:** [28.5.2026]
 
 Tyto zásady ochrany osobních údajů vysvětlují, jak aplikace **CleverSCORE Table TENNIS** (dále jen "Aplikace") shromažďuje, používá a chrání vaše údaje. 
 
