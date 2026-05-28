@@ -3,6 +3,8 @@
 
 **Privacy Policy**
 
+# Privacy Policy
+
 **Last Updated:** [28.5.2026]
 
 This Privacy Policy explains how the CleverSCORE Table TENNIS application (hereinafter referred to as the "App") collects, uses, and protects your information.
