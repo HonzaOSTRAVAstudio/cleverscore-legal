@@ -1,6 +1,45 @@
+*🇨🇿 [Česká verze níže / Czech version below]*
+*🇬🇧 [English version]*
+
+**Terms of Service**
+
+**Last Updated:** [28.5.2026]
+
+By downloading or using the CleverSCORE Table TENNIS application (hereinafter referred to as the "App"), you agree to these Terms of Service. If you do not agree to them, please do not use the App.
+
+**1. Purpose of the App**
+CleverSCORE is a tool designed for scorekeeping, video recording, and tracking statistics for table tennis matches. The App is intended for personal, recreational, and club use.
+
+**2. Disclaimer of Liability**
+The App is provided "as is", without any warranties of any kind. The App developer is not liable for:
+
+*   Loss of data, history, or settings due to uninstallation, device damage, or software errors. We recommend regularly using the built-in "Database Backup" feature.
+*   Any arguments or disputes between players arising from calculated scores or accidental screen touches.
+*   Financial loss. The built-in betting module ("Debt Book") serves solely as an informational notebook for friendly purposes. The App does not process real money transfers and does not encourage gambling.
+
+**3. User Content**
+Videos, records, photographs, and texts that you create using the App are your property. You are fully responsible for how you handle these records, especially if you share them on public networks (please ensure the consent of the filmed individuals).
+
+**4. Restrictions on Use**
+The user agrees not to:
+
+*   Reverse engineer, decompile, or otherwise interfere with the App's source code.
+*   Use the App for any unlawful, fraudulent, or malicious purposes.
+
+**5. Intellectual Property Rights**
+The design, code, logos, trademarks, and unique features of the App (e.g., the Glass Neon UI system, element interconnections) are the intellectual property of the developer.
+
+**6. Contact**
+In case of any questions or bug reports, you can contact us via the "Support" section directly in the App or at the email: 
+**support.HonzaOSTRAVAstudio@gmail.com**
+
+
+
+**Podmínky používání**
+
 # Podmínky používání (Terms of Service)
 
-**Poslední aktualizace:** [DOPLNIT DATUM, např. Květen 2026]
+**Poslední aktualizace:** [28.5.2026]
 
 Stažením nebo používáním aplikace **CleverSCORE Table TENNIS** (dále jen "Aplikace") souhlasíte s těmito Podmínkami používání. Pokud s nimi nesouhlasíte, Aplikaci prosím nepoužívejte.
 
