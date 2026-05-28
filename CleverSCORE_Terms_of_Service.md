@@ -3,6 +3,8 @@
 
 **Terms of Service**
 
+# **Terms of Service**
+
 **Last Updated:** [28.5.2026]
 
 By downloading or using the CleverSCORE Table TENNIS application (hereinafter referred to as the "App"), you agree to these Terms of Service. If you do not agree to them, please do not use the App.
@@ -31,7 +33,7 @@ The design, code, logos, trademarks, and unique features of the App (e.g., the G
 
 **6. Contact**
 In case of any questions or bug reports, you can contact us via the "Support" section directly in the App or at the email: 
-**support.HonzaOSTRAVAstudio@gmail.com**
+**[support.HonzaOSTRAVAstudio@gmail.com](mailto:support.HonzaOSTRAVAstudio@gmail.com)**
 
 
 
@@ -66,4 +68,4 @@ Design, kód, loga, ochranné známky a unikátní funkce Aplikace (např. syst�
 
 ## 6. Kontakt
 V případě dotazů nebo hlášení chyb nás můžete kontaktovat přes sekci "Podpora" přímo v Aplikaci nebo na e-mailu:
-**[support.HonzaOSTRAVAstudio@gmail.com]**
+**[support.HonzaOSTRAVAstudio@gmail.com](mailto:support.HonzaOSTRAVAstudio@gmail.com)**
