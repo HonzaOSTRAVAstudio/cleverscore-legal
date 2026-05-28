@@ -33,7 +33,7 @@ We reserve the right to modify this Privacy Policy. All changes will be posted o
 
 **6. Contact**
 If you have any questions regarding this policy, please contact us at:
-**support.HonzaOSTRAVAstudio@gmail.com**
+**[support.HonzaOSTRAVAstudio@gmail.com](mailto:support.HonzaOSTRAVAstudio@gmail.com)m**
 
 
 
@@ -71,4 +71,4 @@ Vyhrazujeme si právo tyto Zásady ochrany osobních údajů upravovat. Všechny
 
 ## 6. Kontakt
 Pokud máte jakékoli dotazy týkající se těchto zásad, kontaktujte nás prosím na adrese:
-**[support.HonzaOSTRAVAstudio@gmail.com]**
+**[support.HonzaOSTRAVAstudio@gmail.com](mailto:support.HonzaOSTRAVAstudio@gmail.com)**
