@@ -44,8 +44,12 @@ The App contains a "Debt Book" module and allows saving players' IBAN / bank cod
 **6. Children**
 The App is not directed at children. If you film or stream other people – especially minors – please make sure you have their consent (or the consent of their parents).
 
-**7. Deleting Your Data**
-All data is stored on your device. You can delete it in the App (Settings → Data Management, or by deleting the stream key in the live streaming settings) or by uninstalling the App. Live streams already published on YouTube can be deleted in YouTube Studio.
+**7. Deleting Your Data (CleverSCORE Table TENNIS – HonzaOSTRAVAstudio)**
+The App does not have user accounts, so there is no account to delete. How to delete your data:
+
+*   **Data in the App** (players, photos, match history, debt book, settings, videos, stream key, channel name): stored only on your device. Delete them in the App (Settings → Data Management; the stream key in the live streaming settings) or by uninstalling the App. They are deleted immediately and completely – the developer has no copy.
+*   **Live streams on YouTube:** stored by YouTube in your channel. Delete them yourself in YouTube Studio (Content → Live). YouTube's own rules apply.
+*   **Bug reports you sent by email:** send a request to **support.HonzaOSTRAVAstudio@gmail.com** (from the same email address). The reports will be deleted within 30 days. Bug reports are otherwise kept for a maximum of 12 months and then deleted.
 
 **8. Policy Changes**
 We reserve the right to modify this Privacy Policy. All changes will be posted on this page with an updated date.
@@ -99,8 +103,12 @@ Aplikace obsahuje modul "Kniha dluhů" a umožňuje uložení IBAN / bankovních
 ## 6. Děti
 Aplikace není určena dětem. Pokud natáčíte nebo vysíláte jiné osoby – zejména nezletilé – ujistěte se prosím, že máte jejich souhlas (nebo souhlas jejich rodičů).
 
-## 7. Smazání vašich dat
-Veškerá data jsou ve vašem zařízení. Smazat je můžete přímo v Aplikaci (Nastavení → Správa dat, případně smazáním stream klíče v nastavení živého vysílání) nebo odinstalováním Aplikace. Již zveřejněná živá vysílání na YouTube můžete smazat v YouTube Studiu.
+## 7. Smazání vašich dat (CleverSCORE Table TENNIS – HonzaOSTRAVAstudio)
+Aplikace nemá uživatelské účty, takže není co rušit. Jak smazat vaše data:
+
+* **Data v Aplikaci** (hráči, fotografie, historie zápasů, kniha dluhů, nastavení, videa, stream klíč, název kanálu): jsou uložena pouze ve vašem zařízení. Smažete je v Aplikaci (Nastavení → Správa dat; stream klíč v nastavení živého vysílání) nebo odinstalováním Aplikace. Smažou se okamžitě a úplně – vývojář nemá žádnou kopii.
+* **Živá vysílání na YouTube:** ukládá je YouTube ve vašem kanálu. Smažete je sami v YouTube Studiu (Obsah → Živě). Platí pravidla YouTube.
+* **Hlášení chyb odeslaná e-mailem:** pošlete žádost na **support.HonzaOSTRAVAstudio@gmail.com** (ze stejné e-mailové adresy). Hlášení smažeme do 30 dnů. Jinak se hlášení chyb uchovávají nejdéle 12 měsíců a poté se mažou.
 
 ## 8. Změny zásad
 Vyhrazujeme si právo tyto Zásady ochrany osobních údajů upravovat. Všechny změny budou zveřejněny na této stránce s aktualizovaným datem.
